@@ -16,7 +16,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Geometry and Machine Learning
 
-- interests:
+interests:
 - - Computational Geometry and Topology
 - - Geometric Deep Learning
 - - Reinforcement Learning
