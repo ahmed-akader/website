@@ -17,7 +17,7 @@ organizations:
 bio: Geometry and Machine Learning
 
 interests:
-- Computational Geometry and Topology
+- Geometry and Topology
 - Geometric Deep Learning
 - Reinforcement Learning
 
