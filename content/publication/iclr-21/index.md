@@ -24,8 +24,11 @@ tags: ["Deep Learning"]
 
 featured: true
 
-links:
-- name: Code
-  url: https://github.com/ppope/dimensions
+image:
+  caption: 'Estimated dataset dimensions'
+  focal_point: ""
+  preview_only: false
+
+url_code: https://github.com/ppope/dimensions
 
 ---
