@@ -1,35 +1,21 @@
 ---
-title: "An example conference paper"
+title: "Visibility Induction for Discretized Pursuit-Evasion Games"
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Robert Ford
+- Ahmed Abdelkader
+- Hazem El-Alfy
 
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
+date: 2012-07-14
 doi: ""
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: 2021-11-19T20:39:58.233580Z
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
 publication_types: ["1"]
 
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *AAAI Conference on Artificial Intelligence*
+publication_short: In *AAAI*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We study a two-player pursuit-evasion game, in which an agent moving amongst obstacles is to be maintained within "sight" of a pursuing robot. Using a discretization of the environment, our main contribution is to design an efficient algorithm that decides, given initial positions of both pursuer and evader, if the evader can take any moving strategy to go out of sight of the pursuer at any time instant. If that happens, we say that the evader wins the game. We analyze the algorithm, present several optimizations and show results for different environments. For situations where the evader cannot win, we compute, in addition, a pursuit strategy that keeps the evader within sight, for every strategy the evader can take. Finally, if it is determined that the evader wins, we compute its optimal escape trajectory and the corresponding optimal pursuit trajectory.
 
 featured: false
 
