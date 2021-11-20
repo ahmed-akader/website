@@ -1,13 +1,14 @@
 ---
 title: "Visibility Induction for Discretized Pursuit-Evasion Games"
 
-date: 2012-07-14
-
-publishDate: 2021-11-19T20:39:58.233580Z
-
 authors:
 - Ahmed Abdelkader
 - Hazem El-Alfy
+
+date: 2012-07-14
+doi: ""
+
+publishDate: 2021-11-19T20:39:58.233580Z
 
 publication_types: ["1"]
 
