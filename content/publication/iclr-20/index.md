@@ -1,5 +1,5 @@
 ---
-title: "Detection as Regression: Certified Object Detection by Median Smoothing"
+title: "Certified Defenses for Adversarial Patches"
 
 authors:
 - Ping-yeh Chiang
