@@ -19,7 +19,9 @@ publication_short: In *CCCG*
 
 abstract: We consider variants of the art gallery problem where guard visibility is limited to a certain angular aperture α. We show that the problem is NP-hard even when guards can be located in the interior of the polygon. We then proceed to prove that both this problem and its vertex variant, where guard placement is restricted to the vertices of the polygon, are APX-hard. We observe that earlier constructions for such results in art gallery problems with 360◦ guards, usually required them to cover few specific elements. We exploit this by carefully updating the construction to replace 360◦ guards with α-floodlights. Similar transformations may be applicable to other constructions in traditional art gallery theorems, which is of independent interest.
 
-tags: ["Computational Geometry", "Hardness of Approximation"]
+tags:
+- Computational Geometry
+- Hardness of Approximation
 
 featured: false
 
