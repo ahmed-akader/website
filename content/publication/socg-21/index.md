@@ -24,4 +24,15 @@ tags:
 
 featured: true
 
+url_slides: https://www.dropbox.com/s/owmep4gvjngeeth/SoCG21_talk.pdf
+url_video: https://drive.google.com/file/d/1fNWVBZQ1jNMYm_XYNX2mn3Pb-ctO_cg-
+
+links:
+- name: LIPIcs
+  url: https://drops.dagstuhl.de/opus/volltexte/2021/13803/
+- name: arXiv
+  url: https://arxiv.org/abs/2103.16071
+- name: Video-2
+  url: https://drive.google.com/file/d/1ElNOPe9PuvonDuN994nRkUQtzeHs_v5T
+
 ---

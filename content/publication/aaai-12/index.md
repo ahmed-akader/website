@@ -26,6 +26,8 @@ featured: false
 url_pdf: http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/download/5178/5360
 
 links:
+- name: AAAI
+  url: https://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/5178
 - name: Lightning Slide
   url: https://www.dropbox.com/s/1sko1p4t6ybtfut/AAAI12_Lightning_31.pdf
 - name: Poster

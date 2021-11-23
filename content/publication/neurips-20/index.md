@@ -28,6 +28,10 @@ tags:
 featured: false
 
 links:
+- name: NeurIPS
+  url: https://proceedings.neurips.cc/paper/2020/hash/0dd1bc593a91620daecf7723d2235624-Abstract.html
+- name: arXiv
+  url: https://arxiv.org/abs/2007.03730
 - name: Code
   url: https://github.com/Ping-C/CertifiedObjectDetection
 

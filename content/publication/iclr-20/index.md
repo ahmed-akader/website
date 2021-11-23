@@ -28,6 +28,8 @@ tags:
 featured: false
 
 links:
+- name: OpenReview
+  url: https://openreview.net/forum?id=HyeaSkrYPH
 - name: Code
   url: https://github.com/Ping-C/certifiedpatchdefense
 
