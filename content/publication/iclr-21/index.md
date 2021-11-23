@@ -30,7 +30,7 @@ links:
   url: https://openreview.net/forum?id=XJk19XzGq2J
 - name: arXiv
   url: https://arxiv.org/abs/2104.08894
-- name: Code:
+- name: Code
   url: https://github.com/ppope/dimensions
 
 ---

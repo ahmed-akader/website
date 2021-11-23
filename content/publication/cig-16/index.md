@@ -4,7 +4,7 @@ title: "Recovering visibility and dodging obstacles in pursuit-evasion games"
 authors:
 - Ahmed Abdelkader
 
-date: 2017-02-23
+date: 2016-09-20
 doi: ""
 
 publishDate: 2021-11-19T20:39:58.233580Z
