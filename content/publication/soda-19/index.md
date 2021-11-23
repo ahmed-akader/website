@@ -22,7 +22,7 @@ abstract: |
     
     As the fastest known data structures rely on the lifting transformation, their application is limited to the Euclidean metric, and alternative approaches for other distance functions are much less efficient. We circumvent the reliance on the lifting transformation by a careful application of convexification, which appears to be relatively new to computational geometry.
     
-    We are given $n$ points in $\mathbb{R}^d$, each a site possibly defining its own distance function. Under mild assumptions on the growth rates of these functions, the proposed data structures answer queries in logarithmic time using $O(n \log(1/\varepsilon)/\varepsilon^d/2)$ space, which nearly matches the best known results for the Euclidean metric.
+    We are given $n$ points in $\mathbb{R}^d$, each a site possibly defining its own distance function. Under mild assumptions on the growth rates of these functions, the proposed data structures answer queries in logarithmic time using $O(n \log(1/\varepsilon)/\varepsilon^{d/2})$ space, which nearly matches the best known results for the Euclidean metric.
 
 tags:
 - Computational Geometry
