@@ -30,6 +30,8 @@ featured: false
 links:
 - name: OpenReview
   url: https://openreview.net/forum?id=HyeaSkrYPH
+- name: arXiv
+  url: http://128.84.4.34/abs/2003.06693
 - name: Code
   url: https://github.com/Ping-C/certifiedpatchdefense
 

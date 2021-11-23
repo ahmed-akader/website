@@ -26,10 +26,11 @@ tags:
 
 featured: false
 
-url_pdf: https://2017.cccg.ca/proceedings/Session3B-paper1.pdf
-url_slides: https://www.cs.sandia.gov/~samitch/papers/shattering.pptx
-
 links:
+- name: PDF
+  url: https://2017.cccg.ca/proceedings/Session3B-paper1.pdf
+- name: Slides
+  url: https://www.cs.sandia.gov/~samitch/papers/shattering.pptx
 - name: Recorded Talk
   url: https://www.youtube.com/watch?v=zQsTBUXiYE4
 

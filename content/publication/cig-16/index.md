@@ -22,14 +22,14 @@ tags:
 
 featured: false
 
-url_pdf: 'https://www.dropbox.com/s/ocyrflmjvt5l7cw/CIG16_PE.pdf'
-
 links:
 - name: IEEEXplore
-  url: 'https://ieeexplore.ieee.org/document/7860419'
+  url: https://ieeexplore.ieee.org/document/7860419
+- name: PDF
+  url: https://www.dropbox.com/s/ocyrflmjvt5l7cw/CIG16_PE.pdf
 - name: Lightning Slide
-  url: 'https://www.dropbox.com/s/x8es4g1jcd0ioer/CIG16_Pitch.pdf'
+  url: https://www.dropbox.com/s/x8es4g1jcd0ioer/CIG16_Pitch.pdf
 - name: Poster
-  url: 'https://www.dropbox.com/s/z5h8pbtrjnm3146/CIG16_Poster.pdf'
+  url: https://www.dropbox.com/s/z5h8pbtrjnm3146/CIG16_Poster.pdf
 
 ---
