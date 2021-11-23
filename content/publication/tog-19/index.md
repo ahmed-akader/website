@@ -34,7 +34,7 @@ url_video: https://www.youtube.com/watch?v=PqvTZnekZlY
 links:
 - name: ACM DL
   url: https://dl.acm.org/doi/abs/10.1145/3337680
-- name: arXiv:
+- name: arXiv
   url: https://arxiv.org/abs/1902.08767
 - name: Media
   url: https://www.sandia.gov/labnews/2020/04/23/vorocrust/
