@@ -24,11 +24,12 @@ tags:
 featured: false
 
 url_pdf: 'http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/download/5178/5360'
-url_poster: ''
 
 links:
 - name: Lightning Slide
   url: 'https://www.dropbox.com/s/1sko1p4t6ybtfut/AAAI12_Lightning_31.pdf'
+- name: Poster
+  url: 'https://www.dropbox.com/s/wcqz84x67e0ljt5/AAAI12_Poster.pdf'
 
 ---
 
