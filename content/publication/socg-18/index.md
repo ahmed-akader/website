@@ -29,12 +29,12 @@ tags:
 
 featured: false
 
-url_slides: https://arxiv.org/abs/1803.06078
-
 links:
 - name: LIPIcs
   url: https://drops.dagstuhl.de/opus/frontdoor.php?source_opus=8714
 - name: arXiv
+  url: https://arxiv.org/abs/1803.06078
+- name: Slides
   url: https://arxiv.org/abs/1803.06078
 - name: Video
   url: https://www.youtube.com/watch?v=PqvTZnekZlY

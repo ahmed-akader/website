@@ -20,12 +20,13 @@ abstract: The NewsStand system enables the use of a map query interface to retri
 
 featured: false
 
-url_pdf: https://www.dropbox.com/s/w4b7tvwgwtyy0d7/SIGSPATIAL15_brands.pdf
-url_poster: https://www.dropbox.com/s/e6zt0r7c48xcfr2/SIGSPATIAL15_Poster.pdf
-
 links:
 - name: ACM DL
   url: https://dl.acm.org/doi/10.1145/2820783.2820795
+- name: PDF
+  url: https://www.dropbox.com/s/w4b7tvwgwtyy0d7/SIGSPATIAL15_brands.pdf
+- name: Poster
+  url: https://www.dropbox.com/s/e6zt0r7c48xcfr2/SIGSPATIAL15_Poster.pdf
 
 ---
 

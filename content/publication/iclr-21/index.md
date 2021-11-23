@@ -25,17 +25,12 @@ tags:
 
 featured: true
 
-image:
-  caption: 'Estimated dataset dimensions'
-  focal_point: ""
-  preview_only: false
-
-url_code: https://github.com/ppope/dimensions
-
 links:
 - name: OpenReview
   url: https://openreview.net/forum?id=XJk19XzGq2J
 - name: arXiv
   url: https://arxiv.org/abs/2104.08894
+- name: Code:
+  url: https://github.com/ppope/dimensions
 
 ---
