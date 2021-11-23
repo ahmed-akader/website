@@ -30,4 +30,11 @@ tags:
 
 featured: false
 
+url_pdf: 
+url_slides: https://www.dropbox.com/s/vy1a4zl8f651a3u/SODA19_ANN_talk.pdf
+
+links:
+- name: SIAM
+  url: https://epubs.siam.org/doi/abs/10.1137/1.9781611975482.23
+
 ---

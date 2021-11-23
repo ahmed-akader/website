@@ -24,4 +24,7 @@ tags:
 
 featured: false
 
+url_pdf: https://drops.dagstuhl.de/opus/frontdoor.php?source_opus=8830
+url_slides: https://www.dropbox.com/s/2z4raaoac7er05a/SWAT18_DeloneAPM_talk.pdf
+
 ---
