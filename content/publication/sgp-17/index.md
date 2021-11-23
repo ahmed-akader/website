@@ -27,7 +27,11 @@ tags:
 
 featured: false
 
+url_pdf: https://www.dropbox.com/s/c0v9jql8k4rruqi/SGP17_mesh_improvement.pdf
+
 links:
+- name: CGF
+  url: https://onlinelibrary.wiley.com/doi/10.1111/cgf.13256
 - name: Code
   url: https://github.com/Ahdhn/MeshImp
 

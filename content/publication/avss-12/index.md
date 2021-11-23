@@ -1,5 +1,5 @@
 ---
-title: "On Realistic Target Coverage by Autonomous Drones"
+title: "Angular Heuristics for Coverage Maximization in Multi-Camera Surveillance"
 
 authors:
 - Ahmed Abdelkader
@@ -22,5 +22,13 @@ tags:
 - Cyberphysical Systems
 
 featured: false
+
+url_pdf: https://www.dropbox.com/s/vlljup49satcz8p/AVSS12_Final.pdf
+
+links:
+- name: IEEEXplore
+  url: https://ieeexplore.ieee.org/document/6328044
+- name: Poster
+  url: https://www.dropbox.com/s/blod1v04tcrki8z/AVSS12_Poster.pdf
 
 ---

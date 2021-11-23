@@ -23,4 +23,10 @@ tags:
 
 featured: false
 
+links:
+- name: LIPIcs
+  url: 'https://drops.dagstuhl.de/opus/frontdoor.php?source_opus=5885'
+- name: Playable Gadgets
+  url: 'http://www.cs.umd.edu/~akader/projects/2048/index.html'
+
 ---

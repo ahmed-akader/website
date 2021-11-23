@@ -1,5 +1,5 @@
 ---
-title: "The Inapproximability of Illuminating Polygons by $α$-Floodlights"
+title: "The Inapproximability of Illuminating Polygons by α-Floodlights"
 
 authors:
 - Ahmed Abdelkader
@@ -21,7 +21,7 @@ abstract: We consider variants of the art gallery problem where guard visibility
 
 featured: false
 
-url_pdf: 'https://cccg.ca/proceedings/2015/25.pdf'
-url_slides: 'https://www.dropbox.com/s/nbgf1nf3kpgbjlz/CCCG15_talk.pdf'
+url_pdf: https://cccg.ca/proceedings/2015/25.pdf
+url_slides: https://www.dropbox.com/s/nbgf1nf3kpgbjlz/CCCG15_talk.pdf
 
 ---

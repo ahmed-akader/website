@@ -23,5 +23,13 @@ tags:
 
 featured: false
 
+url_pdf: 'https://www.dropbox.com/s/27whw32x2noplvn/NTMS09_Final.pdf'
+
+links:
+- name: IEEEXplore
+  url: 'https://ieeexplore.ieee.org/document/5384738'
+- name: Slides
+  url: 'https://www.dropbox.com/s/6a0idbehvycpl0o/NTMS09_DfP_Tracking.pdf'
+
 ---
 

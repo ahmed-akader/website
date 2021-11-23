@@ -29,4 +29,10 @@ tags:
 
 featured: false
 
+url_pdf: 'https://www.dropbox.com/s/mdivii8b88e9sxe/IPSN17_target_coverage_drones.pdf'
+
+links:
+- name: IEEEXplore
+  url: 'https://ieeexplore.ieee.org/document/7944787'
+
 ---
