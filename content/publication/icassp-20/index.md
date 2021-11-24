@@ -27,6 +27,9 @@ tags:
 - Deep Learning
 - Adversarial Robustness
 
+projects:
+- robustness
+
 featured: false
 
 url_project: ''
@@ -38,8 +41,5 @@ links:
   url: https://arxiv.org/abs/2004.09007
 - name: Code
   url: https://github.com/zhuchen03/headless-attack
-
-projects:
-- robustness
 
 ---

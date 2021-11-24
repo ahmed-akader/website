@@ -25,6 +25,9 @@ tags:
 - Deep Learning
 - Adversarial Robustness
 
+projects:
+- robustness
+
 featured: false
 
 url_project: ''
@@ -36,8 +39,5 @@ links:
   url: https://arxiv.org/abs/2007.03730
 - name: Code
   url: https://github.com/Ping-C/CertifiedObjectDetection
-
-projects:
-- robustness
 
 ---

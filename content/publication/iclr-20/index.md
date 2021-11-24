@@ -25,6 +25,9 @@ tags:
 - Deep Learning
 - Adversarial Robustness
 
+projects:
+- robustness
+
 featured: false
 
 url_project: ''
@@ -36,8 +39,5 @@ links:
   url: http://128.84.4.34/abs/2003.06693
 - name: Code
   url: https://github.com/Ping-C/certifiedpatchdefense
-
-projects:
-- robustness
 
 ---
