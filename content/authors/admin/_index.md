@@ -17,9 +17,21 @@ organizations:
 bio: Geometry and Machine Learning
 
 interests:
-- Geometry and Topology
-- Geometric Deep Learning
-- Reinforcement Learning
+- Computational Geometry
+- Machine Learning
+- Dynamical Systems
+
+education:
+  courses:
+  - course: PhD in Computer Science
+    institution: University of Maryland
+    year: 2020
+  - course: MEng in Mathematics
+    institution: Alexandria University
+    year: 2013
+  - course: BSc in Computer Engineering
+    institution: Alexandria University
+    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -32,6 +44,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ahmadabdolkader/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/ahmed-akader
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ahmadabdolkader
