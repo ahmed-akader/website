@@ -2,9 +2,10 @@
 title: Machine Learning
 summary: Mitigating the vulnerabilities of modern machine learning workflows
 tags:
+- Deep Learning
 - Adversarial Robustness
 - Data Analysis
-date: "2015-04-27T00:00:00Z"
+date: "2011-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ""

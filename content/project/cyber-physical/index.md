@@ -3,7 +3,7 @@ title: Cyber-physical Systems
 summary: Efficient utilization of resources for sensing tasks
 tags:
 - Cyber-physical Systems
-date: "2013-04-27T00:00:00Z"
+date: "2010-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ""
