@@ -26,6 +26,7 @@ image:
 
 profile: false
 sharing: false
+related: false
 
 ---
 
