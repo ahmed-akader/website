@@ -4,7 +4,7 @@ summary: Efficient shape modeling using high-quality discretizations
 tags:
 - Computational Geometry
 - Voronoi meshing
-date: "2016-04-27T00:00:00Z"
+date: "2011-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ""

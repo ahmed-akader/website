@@ -1,11 +1,11 @@
 ---
 title: Proximity and Distance
-summary: Studying similarity and distance measurements in high-dimensional spaces
+summary: Efficient evaluation of similarity and distance queries in high-dimensional spaces
 tags:
 - Computational Geometry
 - Anisotropy
 - Approximation Algorithms
-date: "2016-04-27T00:00:00Z"
+date: "2010-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ""

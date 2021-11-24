@@ -4,7 +4,7 @@ summary: Modeling the evolution of spatio-temporal data
 tags:
 - Dynamical Systems
 - Reinforcement Learning
-date: "2016-04-27T00:00:00Z"
+date: "2012-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ""

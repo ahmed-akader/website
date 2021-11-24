@@ -3,7 +3,7 @@ title: Sensor Management
 summary: Efficient utilization of resources for sensing tasks
 tags:
 - Cyberphysical Systems
-date: "2016-04-27T00:00:00Z"
+date: "2013-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ""
