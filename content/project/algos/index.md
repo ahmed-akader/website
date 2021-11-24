@@ -1,5 +1,5 @@
 ---
-title: Proximity and Distance
+title: Approximation Algorithms
 summary: Efficient evaluation of similarity and distance queries in high-dimensional spaces
 tags:
 - Computational Geometry

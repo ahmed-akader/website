@@ -24,7 +24,7 @@ tags:
 - Hardness of Approximation
 
 projects:
-- cyberphysical
+- cyber-physical
 
 featured: false
 

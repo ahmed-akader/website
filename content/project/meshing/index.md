@@ -1,5 +1,5 @@
 ---
-title: Mesh Generation
+title: Shape Modeling
 summary: Efficient shape modeling using high-quality discretizations
 tags:
 - Computational Geometry
