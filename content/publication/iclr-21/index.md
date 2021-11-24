@@ -24,7 +24,7 @@ tags:
 - Deep Learning
 
 projects:
-- data
+- ml
 
 featured: true
 

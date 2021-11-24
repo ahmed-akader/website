@@ -28,11 +28,9 @@ tags:
 - Adversarial Robustness
 
 projects:
-- robustness
+- ml
 
 featured: false
-
-url_project: ''
 
 links:
 - name: IEEEXplore

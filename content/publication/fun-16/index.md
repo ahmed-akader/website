@@ -21,9 +21,6 @@ abstract: We study the computational complexity of a variant of the popular 2048
 tags:
 - Hardness of Approximation
 
-projects:
-- hardness
-
 featured: false
 
 links:

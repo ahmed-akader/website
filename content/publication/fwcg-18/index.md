@@ -22,9 +22,6 @@ abstract: A key operation in transportation network analysis is to quantify the 
 tags:
 - Topological Data Analysis
 
-projects:
-- data
-
 featured: false
 
 links:

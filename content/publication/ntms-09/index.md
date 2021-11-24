@@ -22,7 +22,7 @@ tags:
 - Cyberphysical Systems
 
 projects:
-- sensors
+- cyberphysical
 
 featured: false
 

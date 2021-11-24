@@ -29,7 +29,7 @@ tags:
 - Approximation Algorithms
 
 projects:
-- distance
+- algos
 
 featured: false
 

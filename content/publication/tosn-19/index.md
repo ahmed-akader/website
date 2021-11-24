@@ -27,7 +27,7 @@ tags:
 - Hardness of Approximation
 
 projects:
-- sensors
+- cyberphysical
 
 featured: false
 

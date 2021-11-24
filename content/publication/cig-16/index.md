@@ -21,7 +21,7 @@ tags:
 - Computational Geometry
 
 projects:
-- sensors
+- cyberphysical
 
 featured: false
 
