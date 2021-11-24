@@ -29,6 +29,8 @@ tags:
 
 featured: false
 
+url_project: ''
+
 links:
 - name: IEEEXplore
   url: https://ieeexplore.ieee.org/abstract/document/9053181/

@@ -57,13 +57,13 @@ show_related:
   book: true
   page: false
   post: true
-  project: true
+  project: false
   publication: true
   event: true
 reading_time: true
 section_pager: false
 docs_section_pager: true
-sharing: true
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false

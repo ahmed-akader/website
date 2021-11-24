@@ -27,6 +27,8 @@ tags:
 
 featured: false
 
+url_project: ''
+
 links:
 - name: OpenReview
   url: https://openreview.net/forum?id=HyeaSkrYPH

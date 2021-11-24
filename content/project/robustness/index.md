@@ -25,8 +25,6 @@ image:
 # slides: example
 
 profile: false
-sharing: false
-related: false
 
 ---
 

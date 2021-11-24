@@ -27,6 +27,8 @@ tags:
 
 featured: false
 
+url_project: ''
+
 links:
 - name: NeurIPS
   url: https://proceedings.neurips.cc/paper/2020/hash/0dd1bc593a91620daecf7723d2235624-Abstract.html
