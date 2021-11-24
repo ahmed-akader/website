@@ -48,7 +48,7 @@ outputs:
 imaging:
   resampleFilter: lanczos
   quality: 75
-  anchor: smart
+  anchor: center # Anchor for cropping. Options include Smart and Center.
 timeout: 600000
 taxonomies:
   tag: tags

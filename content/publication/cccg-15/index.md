@@ -1,5 +1,5 @@
 ---
-title: "The Inapproximability of Illuminating Polygons by $\alpha$-Floodlights"
+title: The Inapproximability of Illuminating Polygons by α-Floodlights
 
 authors:
 - Ahmed Abdelkader
