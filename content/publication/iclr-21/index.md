@@ -23,6 +23,9 @@ abstract: It is widely believed that natural image data exhibits low-dimensional
 tags:
 - Deep Learning
 
+projects:
+- data
+
 featured: true
 
 links:

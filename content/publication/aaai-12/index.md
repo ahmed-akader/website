@@ -21,6 +21,9 @@ tags:
 - Cyberphysical Systems
 - Computational Geometry
 
+projects:
+- sensors
+
 featured: false
 
 links:

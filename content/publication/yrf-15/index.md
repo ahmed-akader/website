@@ -19,6 +19,9 @@ abstract: Topological descriptors such as the generators of homol- ogy groups ar
 tags:
 - Topological Data Analysis
 
+projects:
+- data
+
 featured: false
 
 links:

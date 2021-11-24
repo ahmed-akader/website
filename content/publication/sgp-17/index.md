@@ -25,6 +25,9 @@ tags:
 - Computational Geometry
 - Shape Modeling
 
+projects:
+- meshing
+
 featured: false
 
 links:

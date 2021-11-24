@@ -21,6 +21,9 @@ abstract: Device-free passive (DfP) localization is a new concept in location de
 tags:
 - Cyberphysical Systems
 
+projects:
+- sensors
+
 featured: false
 
 links:

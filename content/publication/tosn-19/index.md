@@ -26,6 +26,9 @@ tags:
 - Computational Geometry
 - Hardness of Approximation
 
+projects:
+- sensors
+
 featured: false
 
 links:

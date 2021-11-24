@@ -27,6 +27,9 @@ tags:
 - Shape Modeling
 - Voronoi Meshing
 
+projects:
+- meshing
+
 featured: false
 
 links:

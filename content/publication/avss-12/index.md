@@ -20,6 +20,10 @@ abstract: Multiple cameras are used to track targets moving amongst obstacles. S
 
 tags:
 - Cyberphysical Systems
+- Computational Geometry
+
+projects:
+- sensors
 
 featured: false
 
