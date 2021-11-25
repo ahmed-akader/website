@@ -16,4 +16,4 @@ profile: false
 
 ---
 
-This tutorial demonstrates the application of the mapper algorithm to study the (COIL-20 dataset)[https://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php]. The tutorial follows a notebook format based on the mapper implementation in the [giotto-tda library](https://giotto-ai.github.io/gtda-docs/0.5.1/library.html).
+This tutorial demonstrates the application of the mapper algorithm to study the [COIL-20 dataset](https://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php). The tutorial follows a notebook format based on the mapper implementation in the [giotto-tda library](https://giotto-ai.github.io/gtda-docs/0.5.1/library.html).
