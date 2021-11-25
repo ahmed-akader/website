@@ -23,7 +23,7 @@ tags:
 - Computational Geometry
 
 projects:
-- cyberphysical
+- cyber-physical
 
 featured: false
 

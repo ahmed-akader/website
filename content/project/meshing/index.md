@@ -6,27 +6,12 @@ tags:
 - Voronoi meshing
 date: "2013-04-27T00:00:00Z"
 
-# Optional external URL for project (replaces project detail page).
-# external_link: ""
-
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
-# url_code: ""
-# url_pdf: ""
-# url_slides: ""
-# url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: example
-
 profile: false
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+In order for our computers to deal with real world entities, we need an accurate digital representation of the geometric shapes involved. These representations typically break down the shape in question into an interconnected collection of simple objects called a *mesh*. Given the necessity of obtaining accurate and high-quality meshes in a multitude of discipliens from computer graphics to scientific simulations, the efficient generation of such meshes is a fundamental research problem relevant to many scientific communities.
+
+My research in shape modeling leverages a deep understanding of surface models and sampling paradigms. During my PhD, I spent time at Google Research and Sandia National Labs working extensively on the theory and implementation of surface reconstruction algorithms with theoretical guarantees. Notably, my work at Sandia National Labs has been essential to the development of the first provably-correct algorithm for conforming Voronoi meshing: (VoroCrust)[https://vorocrust.sandia.gov].
+
+My experience working on mesh generation greatly influenced my research even in other areas. I have always been very passionate about geometry and continue to seek opportunities to learn more about surfaces and their discrete representations.
