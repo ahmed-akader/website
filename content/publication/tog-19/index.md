@@ -39,8 +39,6 @@ links:
   url: https://arxiv.org/abs/1902.08767
 - name: Video
   url: https://www.youtube.com/watch?v=PqvTZnekZlY
-- name: Media
-  url: https://www.sandia.gov/labnews/2020/04/23/vorocrust/
 - name: Sandia Labnews
   url: https://www.sandia.gov/labnews/2020/04/23/vorocrust/
 - name: Sandia Collaboration Report
