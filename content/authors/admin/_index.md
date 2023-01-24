@@ -58,6 +58,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I obtained my PhD in Computer Science from the University of Maryland at College Park, where I was advised by David Mount. During my PhD, I spent a lot of time at Sandia National Labs working on meshing algorithms, where I was hosted by Scott Mitchell and Mohamed Ebeida. Prior to all that, I studied computer engineering and TA'ed many math/CS undergrad classes at Alexandria University in Egypt.
-
 My current research considers the entire geometry acquisition pipeline, with a focus on deep representations enabling accurate predictions and realistic synthetics, as well as sensor modeling. I continually develop my expertise in geometric computing to solve practical problems in perception and learning. I thrive in multidisciplinary environments and have a passion for education and mentoring.
+
+I obtained my PhD in Computer Science from the University of Maryland at College Park, where I wrote a thesis on nearest-neighbor searching and was lucky to have David Mount as my advisor. During my PhD, I spent a lot of time at Sandia National Labs working on meshing algorithms with Scott Mitchell and Mohamed Ebeida. Before leaving Maryland, I did a few projects on adversarial robustness in collaboation with Tom Goldstein and some of his bright students. Prior to all that, I studied computer engineering and TA'ed many math/CS undergrad classes at Alexandria University in Egypt.
