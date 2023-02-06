@@ -25,6 +25,7 @@ abstract: |
     We are given $n$ points in $\mathbb{R}^d$, each a site possibly defining its own distance function. Under mild assumptions on the growth rates of these functions, the proposed data structures answer queries in logarithmic time using $O(n \log(1/\varepsilon)/\varepsilon^{d/2})$ space, which nearly matches the best known results for the Euclidean metric.
 
 tags:
+- Selected
 - Computational Geometry
 - Approximation Algorithms
 
