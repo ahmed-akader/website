@@ -23,6 +23,7 @@ abstract: Adversarial patch attacks are among one of the most practical threat m
 
 tags:
 - Selected
+- Computer Vision
 - Deep Learning
 - Adversarial Robustness
 

@@ -23,6 +23,7 @@ abstract: Despite the vulnerability of object detectors to adversarial attacks, 
 
 tags:
 - Selected
+- Computer Vision
 - Deep Learning
 - Adversarial Robustness
 

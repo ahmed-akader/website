@@ -2,9 +2,10 @@
 title: Machine Learning
 summary: Mitigating the vulnerabilities of modern machine learning workflows
 tags:
+- Computer Vision
 - Deep Learning
 - Adversarial Robustness
-- Data Analysis
+- Topological Data Analysis
 date: "2013-04-27T00:00:00Z"
 
 profile: false
