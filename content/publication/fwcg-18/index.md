@@ -27,5 +27,7 @@ featured: false
 links:
 - name: PDF
   url: https://www.dropbox.com/s/2xphf63m4lz5dkt/FWCG18_PLH.pdf
+- name: Slides
+  url: https://www.dropbox.com/s/2izojupxpyjjvip/FWCG18_LPH_talk.pdf
 
 ---
