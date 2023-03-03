@@ -24,5 +24,9 @@ featured: false
 links:
 - name: PDF
   url: https://www.dropbox.com/s/28yncany8livjcb/CGYRF16_hierarchical_blowup.pdf
+- name: Pitch
+  url: https://www.dropbox.com/s/lqa342gtzodv9qc/CGYRF16_pitch.pdf
+- name: Slides
+  url: https://www.dropbox.com/s/ntosseektcp8q2i/CGYRF16_talk.pdf
 
 ---
