@@ -6,7 +6,11 @@ tags:
 - Python
 date: "2023-05-23T00:00:00Z"
 
-url_slides: https://docs.google.com/presentation/d/1zJsjqiVl5y-g8TBQJ3Bfy1XBgbg84sYYTruV5XPsYI8
+links:
+- name: Session#1
+  url: https://docs.google.com/presentation/d/1zJsjqiVl5y-g8TBQJ3Bfy1XBgbg84sYYTruV5XPsYI8
+- name: Session#2
+  url: https://docs.google.com/presentation/d/1jiNpQc4aeO4Gfh52Q6Wz70hzvhjZnnmDnJl9gnEdWYM
 
 profile: false
 
