@@ -16,4 +16,6 @@ profile: false
 
 ---
 
-Based primarily on [Fluent Python, 2nd Edition](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/) by Luciano Ramalho.
+Volunteered as an instructor at [Hacker Dojo](https://hackerdojo.org/).
+
+The content is based primarily on [Fluent Python, 2nd Edition](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/) by Luciano Ramalho.

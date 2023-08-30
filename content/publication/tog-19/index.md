@@ -34,6 +34,8 @@ projects:
 featured: true
 
 links:
+- name: Supplemental
+  url: https://www.dropbox.com/scl/fi/vd6pqfxzqv6543fp5glq6/VoroCrust_supplemental_materials.pdf?rlkey=q2wef5ew0mhm3hdrtegaztku0&dl=0
 - name: GitHub
   url: https://github.com/lanl/VoroCrust
 - name: ACM DL
