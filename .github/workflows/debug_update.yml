@@ -1,0 +1,12 @@
+name: Updater (WIP)
+
+on: workflow_dispatch
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: wowchemy/gh-action-updater@v3
+        with:
+          feed-url: https://wowchemy.com/blog/index.xml
+          readme-section: news
