@@ -1,4 +1,4 @@
-name: Updater (WIP)
+name: debug_update
 
 on: workflow_dispatch
 
