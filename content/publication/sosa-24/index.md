@@ -27,4 +27,12 @@ projects:
 
 featured: false
 
+links:
+- name: SIAM
+  url: https://epubs.siam.org/doi/10.1137/1.9781611977936.26
+- name: PDF
+  url: https://epubs.siam.org/doi/pdf/10.1137/1.9781611977936.26
+- name: Slides
+  url: https://www.dropbox.com/scl/fi/sxxdmcgtd2gr1wld34g96/SOSA24_HilbertAPM_talk.pdf?rlkey=bl2vh0hz6ai85bzgrka221w0t&dl=0
+
 ---
