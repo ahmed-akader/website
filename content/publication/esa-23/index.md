@@ -23,7 +23,6 @@ abstract: |
     We illustrate the use of this technique in a specific application of approximating the distance to the boundary of a convex polytope in ℝ^d from any point in its interior. We begin by developing a novel data structure that efficiently computes an absolute ε-approximation to this query in time O(log (1/ε)) using O(1/ε^{d/2}) storage space. Then, we proceed to apply the proposed partition-of-unity blending to guarantee the smoothness of the approximate distance field, establishing optimal asymptotic bounds on the norms of its gradient and Hessian.
 
 tags:
-- Selected
 - Computational Geometry
 - Approximation Algorithms
 
