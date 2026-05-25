@@ -35,7 +35,11 @@ projects:
 featured: false
 
 links:
+- name: Webpage
+  url: https://arijitray.com/multimodal_thinking/
 - name: arXiv
   url: https://arxiv.org/abs/2512.10941
+- name: Code
+  url: https://github.com/arijitray1993/mull
 
 ---
