@@ -26,7 +26,7 @@ tags:
 projects:
 - algos
 
-featured: true
+featured: false
 
 links:
 - name: LIPIcs

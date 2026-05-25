@@ -32,7 +32,7 @@ tags:
 projects:
 - cv
 
-featured: false
+featured: true
 
 links:
 - name: arXiv
