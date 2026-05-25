@@ -16,9 +16,9 @@ organizations:
 bio: Geometry and Machine Learning
 
 interests:
+- Artificial Intelligence
+- Computer Vision
 - Computational Geometry
-- Computational Photography
-- Machine Learning
 
 education:
   courses:
